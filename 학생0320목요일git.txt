@@ -1,0 +1,37 @@
+
+
+https://git-scm.com/  프로그램 다운 받아요
+https://github.com/ 가입하셔요
+
+
+
+윈도우클릭 cmd입력 
+윈도우 + R  클릭해서 cmd입력
+콘솔명령어창 = 명령 프롬프트
+
+C:\Users\~~> cd \
+C:\> cls 
+C:\> cd Mtest
+
+C:\Mtest> cd day0320
+C:\Mtest\day0320>  dir
+C:\Mtest\day0320>  cls
+C:\Mtest\day0320>  cd ..
+C:\Mtest> dir
+C:\Mtest> cls
+C:\Mtest> cd day0320
+C:\Mtest\day0320>  dir
+
+
+
+
+
+
+
+
+
+
+
+
+
+

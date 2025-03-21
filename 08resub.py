@@ -26,7 +26,7 @@ ret7 = re.findall( '[a-zA-Z0-9가-힣]+' , msg)
 print('패턴7', ret7)
 print()
 
-
+print()
 # 두번째 특수문자추출  ^부정not사용
 ret2 = re.findall( '[^\w]+' , msg) 
 print('점심전패턴2', ret2)
